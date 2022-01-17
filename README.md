@@ -9,4 +9,5 @@ After:![Screen Shot 2022-01-16 at 9 09 10 PM](https://user-images.githubusercont
 After: ![Screen Shot 2022-01-16 at 9 17 25 PM](https://user-images.githubusercontent.com/65744738/149690634-b6fc542e-d0d6-4f19-bee6-fa806654ba47.png)
 * As you can see the math anf reading scores both increase dramatically when only counting the tenth thorugh twelfth grades at Thomas High
 * The scores by spending size and type were all relatively unaffected as the number of students removed from the overall evaluation was very small
-#
+# Results
+By removing the values though to be incorrect from the ninth graders at Thomas High School the schools math passing percentage increased as did the passing reading percentage. This brought up the overall passing as well. 
